@@ -6,7 +6,7 @@
 
 # Componentizing the application
 
-The project is a page for listing movies by genre using React JS and `json-server` to server a fake API.
+The project is a SPA for listing movies by genre using React JS and `json-server` to server a fake API.
 
 ## The Challange
 
